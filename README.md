@@ -12,4 +12,5 @@ Goal 2: Create random multiple boxes in blender or omniverse create using python
 File: CIM Digital Twin Exercise 1 Q2.py
 
 Individual Assignment: Use OCR to extract and display important information fom invoice
+
 File: Assignment
